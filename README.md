@@ -12,9 +12,8 @@
 
 ---
 
-### 📊 GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=annasalakram&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annasalakram&layout=compact&theme=tokyonight)
+### 🚀 Tech Stack & Tools
+[![My Skills](https://skillicons.dev/icons?i=cisco,aws,python,ansible,linux,docker,bash,py,github,git)](https://skillicons.dev)
 
 ---
 
