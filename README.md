@@ -12,9 +12,8 @@
 
 ---
 
-### 🚀 Tech Stack & Tools
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=annasalakram&theme=tokyonight)
-
+### 🚀 My Skills & Tools
+![My Skills](https://skillicons.dev/icons?i=cisco,aws,python,ansible,linux,docker,bash,py)
 ---
 
 ### 📬 Connect with me
