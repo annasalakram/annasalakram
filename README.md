@@ -12,10 +12,6 @@
 
 ---
 
-### 🚀 My Skills & Tools
-![My Skills](https://skillicons.dev/icons?i=cisco,aws,python,ansible,linux,docker,bash,py)
----
-
 ### 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/annasalakram)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:annas.tnt@gmail.com)
