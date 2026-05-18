@@ -1,5 +1,4 @@
 # 👋 Hello, I'm Akram
-### Network Engineer | Cloud & Automation Enthusiast
  Passionate about securing the future of cloud networking through automation. I specialize in designing, implementing, and managing secure  network infrastructures with a heavy emphasis on Cloud Security and Python-based automation.
 
 ---
